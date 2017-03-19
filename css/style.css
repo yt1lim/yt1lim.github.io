@@ -1,0 +1,110 @@
+.profile-pic {
+	max-width: 100%;
+}
+/* for comment purposes */
+.days {
+	font-style: italic;
+	color: orange;
+	text-align: left;
+}
+
+.social-icon .fa {
+	color: #4bbc65;
+}
+
+.social-icon .fa:hover {
+	color: darkgreen;
+}
+
+.card-footer {
+	background: #f2f2e6;
+}
+
+.col-md-8 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.pink-bar {
+	background-color: pink;
+}
+
+.darkpink-text {
+	color: purple;
+}
+
+.allfont {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.block1{
+	background-color: #e0d3ed;
+	border-color: purple;
+	border-style: dashed;
+}
+
+.block2{
+	background-color: #c1c5f2;
+	border-color: blue;
+	border-style: dashed;
+}
+
+.block3 {
+	background-color: #beecf4;
+	border-color: #284247;
+	border-style: dashed;
+}
+
+.navbar {
+	background-color: #f2f2e6;
+}
+
+.navbar-nav {
+/*	margin-right: auto;
+	margin-left: auto;*/
+/*	background-color: blue;*/
+	width:100%;
+	justify-content: center;
+}
+
+.nav-item {
+	margin-left: 7%;
+	margin-right: 7%;
+	background-color: auto;
+}
+
+.card {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.enterbutton {
+	background-color: orange;
+	/*margin-left: 45%;
+	margin-right: 45%;*/
+	justify-content: center;
+	border-radius: 100px;
+	font-size: 30px;
+	width: 15%;
+	margin: auto;
+}
+
+.titlepage {
+	padding-top: 15%;
+}
+
+/*.home-page {
+	background: url("../img/fireplace980.gif");
+	background-size: cover;*/
+
+.checkboxhome {
+	padding: 50px;
+}
+
+.input-group {
+	margin-left: 30%;
+}
+
